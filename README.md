@@ -5,7 +5,7 @@ Developer, dreamer & tech lover. I love participating at dev events and I am als
 
 - 💻 I’m currently learning Java, Golang, C#, JS & TS.
 - 🥰 I’m looking for help with Golang or Java development.
-- 📝 I maintain a [blog](http://wiki.alsritter.icu/) about things I learn or I want to share.
+- 📝 I maintain a [blog](https://alsritter.icu/) about things I learn or I want to share.
 - 💬 Ask me about Anything you want~
 - 📫 Reach me: alsritter@outlook.com
 
