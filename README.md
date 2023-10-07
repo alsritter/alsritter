@@ -3,7 +3,7 @@
 
 Developer, dreamer & tech lover. I love participating at dev events and I am also an open-source enthusiast. 🥳
 
-- 💻 I’m currently learning Java, Golang, C#, JS & TS.
+- 💻 I’m currently learning Java, Golang, Python, C#, JS & TS.
 - 🥰 I’m looking for help with Golang or Java development.
 - 📝 I maintain a [blog](https://alsritter.icu/) about things I learn or I want to share.
 - 💬 Ask me about Anything you want~
